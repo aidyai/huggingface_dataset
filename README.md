@@ -1,6 +1,6 @@
 # Programmatically Create Hugging Face Datasets
 <p align="center">
-  <img src="[./hf-ds.png.png]">
+  <img src="./hf-ds.png">
 </p>
 
 This repository provides a Python script for programmatically creating datasets compatible with Hugging Face's Dataset Hub. It serves as a resource for individuals looking to automate the process of dataset creation and upload.
